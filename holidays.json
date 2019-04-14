@@ -3,7 +3,7 @@
     "static": {
       "1-1": "Nieuwjaars dag",
       "6-1": "Driekoningen",
-      "14-4": "Valentijnsdag",
+      "14-2": "Valentijnsdag",
       "27-4": "Koningsdag",
       "1-5": "Dag van de Arbeid",
       "4-5": "Dodenherdenking",
@@ -16,30 +16,30 @@
       "31-12": "Oudjaars dag"
     },
     "dynamic": {
-      "25-3-2018": "Zomertijd",
       "31-3-2019": "Zomertijd",
-      "30-3-2018": "Goede Vrijdag",
+      "29-3-2020": "Zomertijd",
       "19-4-2019": "Goede Vrijdag",
-      "1-4-2018": "1e Paasdag",
+      "10-4-2020": "Goede Vrijdag",
       "21-4-2019": "1e Paasdag",
-      "2-4-2018": "2e Paasdag",
+      "12-4-2020": "1e Paasdag",
       "22-4-2019": "2e Paasdag",
-      "10-5-2018": "Hemelvaartdag",
+      "13-4-2020": "2e Paasdag",
       "30-5-2019": "Hemelvaartdag",
-      "13-5-2018": "Moederdag",
+      "21-5-2020": "Hemelvaartdag",
       "12-5-2019": "Moederdag",
-      "20-5-2018": "1e Pinksterdag",
+      "10-5-2020": "Moederdag",
       "9-6-2019": "1e Pinksterdag",
-      "21-5-2018": "2e Pinksterdag",
+      "31-5-2020": "1e Pinksterdag",
       "10-6-2019": "2e Pinksterdag",
-      "17-6-2018": "Vaderdag",
+      "1-6-2020": "2e Pinksterdag",
       "16-6-2019": "Vaderdag",
-      "18-9-2018": "Prinsjesdag",
+      "21-6-2020": "Vaderdag",
       "17-9-2019": "Prinsjesdag",
-      "28-10-2018": "Wintertijd",
+      "15-9-2020": "Prinsjesdag",
       "27-10-2019": "Wintertijd",
-      "9-12-2018": "Lichtjesdag",
-      "8-12-2019": "Lichtjesdag"
+      "25-10-2020": "Wintertijd",
+      "8-12-2019": "Lichtjesdag",
+      "13-12-2020": "Lichtjesdag"
     }
   }
 }
